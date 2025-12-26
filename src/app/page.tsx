@@ -30,7 +30,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Learning
+              Learning ALL
             </a>{" "}
             center.
           </p>
